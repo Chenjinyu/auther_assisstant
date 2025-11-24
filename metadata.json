@@ -1,0 +1,5 @@
+{
+  "name": "AuthorAI Assistant",
+  "description": "A RAG-based personal portfolio assistant using Gemini 2.5 Flash. Features context-aware answers, simulated vector search, caching, and theming.",
+  "requestFramePermissions": []
+}
